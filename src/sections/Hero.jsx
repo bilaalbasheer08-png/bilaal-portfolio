@@ -113,11 +113,11 @@ function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Bilaal_Career_Profile.pdf"
               download
               className="border border-blue-500 text-blue-500 px-6 py-3 rounded-lg hover:bg-blue-500 hover:text-white transition"
             >
-              Download Resume
+              Download Career Profile
             </a>
 
           </div>
